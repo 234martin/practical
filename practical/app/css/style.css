@@ -1,0 +1,19 @@
+.name{
+    position: relative;
+    left: 30px;
+   
+   
+}
+
+.butt{
+    background-color: green;
+    text-emphasis-color: white; 
+    display: flex;
+  
+    
+}
+
+col{
+  grid-column: left;
+  padding: 5px;
+}
